@@ -57,6 +57,19 @@ p {
 img {
   margin: 40px 8px 0 8px;
 }
+input {
+  font-family: "Raleway";
+  background-color: #F15B31;
+  color: #FFFFFF;
+  border-radius: 6px;
+  font-size: 18px;
+  margin: 10px 0px;
+}
+input:hover {
+  border-color: #F15B31;
+  background-color: #FFFFFF;
+  color: #F15B31;
+}
 footer {
   text-transform: uppercase;
   padding: 0 20px;
